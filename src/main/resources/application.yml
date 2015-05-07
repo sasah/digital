@@ -1,0 +1,9 @@
+logging:
+  path: logs
+  level:
+    ru.tereshchenko.digital: DEBUG
+
+spring:
+  main.show-banner: false
+  jmx.enabled: false
+  mvc.favicon.enabled: false
