@@ -1,0 +1,7 @@
+module.exports = {
+
+    clean: [
+        "dist/"
+    ]
+
+};

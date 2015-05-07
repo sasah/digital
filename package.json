@@ -1,0 +1,16 @@
+{
+  "name": "digital",
+  "version": "1.0.0",
+  "description": "Проект цифрового будущего",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasah/digital.git"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "load-grunt-config": "^0.17.1",
+    "time-grunt": "^1.2.0"
+  }
+}

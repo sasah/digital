@@ -1,0 +1,7 @@
+default:
+  tasks:
+    - build
+
+build:
+  tasks:
+    - clean
