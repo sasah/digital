@@ -1,4 +1,7 @@
 {
   "name": "digital",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "angular-material": "~0.9.0"
+  }
 }
