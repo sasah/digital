@@ -1,7 +1,9 @@
 default:
   tasks:
-    - build
-
-build:
-  tasks:
-    - clean
+    - clean:clean
+    - less
+    - cssmin
+    - ts
+    - uglify
+    - htmlmin
+    - clean:tmp

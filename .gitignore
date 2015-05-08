@@ -5,3 +5,7 @@
 /node_modules/
 /bower_components/
 /typings/
+/tmp/
+/src/main/resources/static/digital.css
+/src/main/resources/static/digital.js
+/src/main/resources/static/index.html
